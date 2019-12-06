@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 import Navagation from './components/Navagation';
-import { BrowserRouter as Router, Switch, Route, Link, NavLink } from 'react-router-dom';
+import { BrowserRouter as Router, Switch, Route, Link, NavLink, HashRouter} from 'react-router-dom';
 import AboutUsPage from './pages/AboutUsPage';
 import HomePage from './pages/HomePage';
 import LogInPage from './pages/LoginPage';
@@ -12,7 +12,7 @@ import './App.css';
 
 function App() {
 	return (
-		<Router>
+		<HashRouter basename="/">
 			<Navagation />
 			<Switch>
 				<Route path="/about-us" component={AboutUsPage} />
@@ -22,7 +22,7 @@ function App() {
 				<Route path="/posts/new" component={CreatePostPage} />
 				<Route path="/" component={HomePage} />
 			</Switch>
-		</Router>
+		</HashRouter>
 	);
 }
 
