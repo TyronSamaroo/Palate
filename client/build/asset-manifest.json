@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.93cbfddf.chunk.css",
+    "main.js": "/static/js/main.2e684b9a.chunk.js",
+    "main.js.map": "/static/js/main.2e684b9a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8c478e4e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8c478e4e.js.map",
+    "static/js/2.287a2173.chunk.js": "/static/js/2.287a2173.chunk.js",
+    "static/js/2.287a2173.chunk.js.map": "/static/js/2.287a2173.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.13660e3a64e0484b77e5a9ec9bdc7cf2.js": "/precache-manifest.13660e3a64e0484b77e5a9ec9bdc7cf2.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.93cbfddf.chunk.css.map": "/static/css/main.93cbfddf.chunk.css.map",
+    "static/media/AboutHero.svg": "/static/media/AboutHero.b0537f86.svg",
+    "static/media/Breakfast.jpg": "/static/media/Breakfast.e45bf5ce.jpg",
+    "static/media/DayanProfile.png": "/static/media/DayanProfile.ac9ba098.png",
+    "static/media/EricProfile.jpg": "/static/media/EricProfile.fa6cd128.jpg",
+    "static/media/Logo.svg": "/static/media/Logo.7df033cb.svg",
+    "static/media/Roboto-Bold.ttf": "/static/media/Roboto-Bold.e07df86c.ttf",
+    "static/media/TyronProfile.png": "/static/media/TyronProfile.3b6483ff.png",
+    "static/media/breakfastImage.jpg": "/static/media/breakfastImage.7d036cf8.jpg",
+    "static/media/building_blocks.svg": "/static/media/building_blocks.508beb8c.svg",
+    "static/media/burgerImage.jpg": "/static/media/burgerImage.a72bd074.jpg",
+    "static/media/dessertImage.jpg": "/static/media/dessertImage.a1afb525.jpg",
+    "static/media/healthyImage.jpg": "/static/media/healthyImage.81f42d4f.jpg",
+    "static/media/mexicanImage.jpg": "/static/media/mexicanImage.440a9d09.jpg",
+    "static/media/undraw_searching_p5ux.png": "/static/media/undraw_searching_p5ux.8f24c54b.png"
+  }
+}
