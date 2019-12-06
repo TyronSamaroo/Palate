@@ -1,9 +1,9 @@
 {
     "development": {
-      "username": "palate_user",
-      "password": "palate_pass",
-      "database": "PalateTestDb",
-      "host": "127.0.0.1",
+      "username": "awstyronDb",
+      "password": "awstyronDb123",
+      "database": "Palate",
+      "host": "database-palate.cnjj3e1wzbpm.us-east-2.rds.amazonaws.com",
       "dialect": "postgres"
     },
     "test": {
